@@ -40,8 +40,10 @@ This simple yet powerful API enables real-time communication between browser tab
 
 I have created a sample demo to showcase this feature.
 
-- [Source Code](https://github.com/bhumit070/browser_tabs_communication)
-- [Live Demo](https://github.com/bhumit070/browser_tabs_communication)
+* [Source Code](https://github.com/bhumit070/browser_tabs_communication)
+    
+* [Live Demo](https://bhumit070.github.io/browser_tabs_communication/)
+    
 
 ## Conclusion
 
@@ -49,5 +51,6 @@ The Broadcast Channel API offers a seamless solution for enhancing multi-tab sup
 
 ## Follow me for more updates
 
-- [Twitter](https://twitter.com/bhumit070)
-- [Linkedin](https://www.linkedin.com/in/bhoomit-ganatra/)
+* [Twitter](https://twitter.com/bhumit070)
+    
+* [Linkedin](https://www.linkedin.com/in/bhoomit-ganatra/)
