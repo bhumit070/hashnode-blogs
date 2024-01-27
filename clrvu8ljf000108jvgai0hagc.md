@@ -4,6 +4,7 @@ datePublished: Sat Jan 27 2024 08:56:50 GMT+0000 (Coordinated Universal Time)
 cuid: clrvu8ljf000108jvgai0hagc
 slug: streamlining-javascript-development-with-packageflex-one-click-copy-for-npm-install-commands
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706345808811/a5686641-dff4-4ed6-af56-15aa91c2930f.png
+tags: npm, chrome-extension, yarn, chrome-cj73auo4o0012c3wted1yb7a1, pnpm, bun
 
 ---
 
